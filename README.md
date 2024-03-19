@@ -17,3 +17,12 @@ Included:
 - Performed a classification empirical study using real textual data
 - Documented, in a Jupyter Notebook, everything about your empirical study (view the Specific
 Requirements section), in a way to make your experiment understandable and reproducible
+
+# Languages/Packages Used
+```css
+1. Python
+2. Spacy
+3. Numpy
+4. Pandas
+5. Jupyter Notebook
+```
